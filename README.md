@@ -105,11 +105,23 @@ DLLIMPORT void SimulationBegin(
 
 ## Inside PSIM
 
-To use this code in PSIM, the _General DLL Block_ is used, specifying the number of inputs and outputs. It can be found going to _Elements>Other>Function Blocks>General DLL Block_. 
-
-For the use of a potentiometer, the block will only have one output and doesn't need inputs.
+To use this code in PSIM, the _General DLL Block_ is used, specifying the number of inputs and outputs (for the use of a potentiometer, the block will only have one output and doesn't need inputs). It can be found going to _Elements > Other > Function Blocks > General DLL Block_. 
 
 After that, the code is imported selecting the PsimBasicDLL.dll inside the folder ArduinoDLL of the repository.
+
+The video below shows a demonstration of the code:
+
+<video width="640" height="360" controls>
+  <source src=https://github.com/user-attachments/assets/f24116b3-b903-4fd9-96b4-153c01fedc99 type="video/mp4">
+  Seu navegador não suporta vídeos embutidos.
+</video>
+
+
+
+https://github.com/user-attachments/assets/f24116b3-b903-4fd9-96b4-153c01fedc99
+
+
+
 
 
 
