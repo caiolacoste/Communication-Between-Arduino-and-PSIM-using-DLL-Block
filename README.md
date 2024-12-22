@@ -1,4 +1,4 @@
-# Communication-Between-Arduino-and-PSIM-using-DLL-Block
+# Communication Between Arduino and PSIM using DLL Block
 
 ## Introduction
 
