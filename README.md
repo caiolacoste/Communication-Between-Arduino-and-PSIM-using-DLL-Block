@@ -111,13 +111,6 @@ After that, the code is imported selecting the PsimBasicDLL.dll inside the folde
 
 The video below shows a demonstration of the code:
 
-<video width="640" height="360" controls>
-  <source src=https://github.com/user-attachments/assets/f24116b3-b903-4fd9-96b4-153c01fedc99 type="video/mp4">
-  Seu navegador não suporta vídeos embutidos.
-</video>
-
-
-
 https://github.com/user-attachments/assets/f24116b3-b903-4fd9-96b4-153c01fedc99
 
 
